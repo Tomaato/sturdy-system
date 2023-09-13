@@ -1,8 +1,10 @@
 # sturdy-system
-# e-shop
+# E-shop
 
-Popis projektu
+prodávaní planet, hvězd a souhvězdí.
 
 ## vesmírný tým
 
 * Václav Pešek
+* Jaroslav Poddaný
+* Claudie Froňková 
